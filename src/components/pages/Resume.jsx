@@ -1,9 +1,10 @@
 import React from 'react';
+import Header from '../Header'
 
 export default function Resume() {
   return (
     <div>
-      <h1>Jason's Portfolio</h1>
+      <Header></Header>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
